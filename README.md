@@ -1,10 +1,12 @@
 **Nome da pintura:** Sem Título
-**Pintor:** Max Bill  
+
+**Pintor:** Max Bill
+
 **Ano:** 24/10/2017  
 
 ![Imagem da pintura](sem_titulo.jpg)
 
-**Link da Imagem**
+**Link da Imagem:**
 https://www.catalogodasartes.com.br/obra/Atztez/ 
 
 A composição foi recriada em p5.js com formas geométricas simples, mantendo a estrutura visual da imagem original. A interação principal ocorre por meio do clique do mouse sobre os triângulos da figura.
